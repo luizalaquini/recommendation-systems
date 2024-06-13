@@ -1,0 +1,8 @@
+IPython
+matplotlib
+mlxtend
+numpy
+pandas
+plotly
+scikit-learn
+tensorflow
